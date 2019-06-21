@@ -1,1 +1,4 @@
-console.log("learning git")
+function greet(name){
+    console.log("hello" + name)
+}
+greet('rajat')
